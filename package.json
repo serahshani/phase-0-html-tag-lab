@@ -2,7 +2,7 @@
   "name": "phase-0-html-link-tag-with-href",
   "version": "1.0.0",
   "description": "Create a Link Using the href Attribute",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json"
   },
